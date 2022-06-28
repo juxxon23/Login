@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183206159941",
+    "project_id": "yt-dw-be090",
+    "storage_bucket": "yt-dw-be090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183206159941:android:1931de2387376cad3a652c",
+        "android_client_info": {
+          "package_name": "com.eb.yt_dw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183206159941-9v71ue3ttkso7b8i8f24n6qe6gesk1pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6YcPEnEtroHGde2CDRlCqZe1gy5yGOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183206159941-9v71ue3ttkso7b8i8f24n6qe6gesk1pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
